@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ICICI BANK Release Nexus Repository</name>
-	      <url>http://13.214.159.21:9980/varma/repository/icicibank-release/</url>
+	      <url>http://3.0.49.225:9980/varma/repository/icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICI BANK Snapshot Nexus Repository </name>
-	      <url>http://13.214.159.21:9980/varma/repository/icicibank-snapshot/</url>
+	      <url>http://3.0.49.225:9980/varma/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
